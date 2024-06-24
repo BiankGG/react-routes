@@ -11,9 +11,9 @@ function App() {
       <header>
         <h1>Portofolio</h1>
         <nav>
-          <Link to="/">Start</Link>
-          <Link to="/Projects">Projects</Link>
-          <Link to="/Resume"> CV</Link>
+          <Link to= "/" > Home</Link>
+          <Link to= "/Projects" > Projects</Link>
+          <Link to= "/Resume" > CV</Link>
         </nav>
       </header>
       <section>

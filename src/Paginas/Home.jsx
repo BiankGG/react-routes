@@ -12,10 +12,7 @@ const Home = () => {
         and in loss prevention has equipped me with strong leadership, team
         management, and problem-solving skills.
       </p>
-      <nav>
-        <Link to="/Projects">Projects</Link>
-        <Link to="/Resume"> Resume</Link>
-      </nav>
+      
     </div>
   );
 };
